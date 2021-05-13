@@ -36,3 +36,8 @@ d3.selectAll("#filter-btn").on("click", handleClick);
 
 // Build the table when the page loads
 buildTable(tableData);
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+<script src="static/js/data.js"></script>
+<script src="static/js/app.js"></script>
+
