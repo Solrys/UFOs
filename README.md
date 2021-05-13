@@ -8,4 +8,4 @@ The purpose of this project is to create a webpage using javascript, html, and c
 The webpage is successful in completed its intended purposes. Scrolling down the page, the filter is located on the left side of the page. Once located, the user can filter the criteria they would like to see.
 
 Taking a page from X-Files, "The Truth Is Out There". This tittle is meant to invite curiosity and exploration. 
-[!image](https://github.com/Solrys/UFOs/blob/main/Images/107136875-f72c9800-68bb-11eb-8c9b-71a47742557d.png)
+![image](https://github.com/Solrys/UFOs/blob/main/Images/107136875-f72c9800-68bb-11eb-8c9b-71a47742557d.png)
