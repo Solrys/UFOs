@@ -11,7 +11,7 @@ Taking a page from X-Files, "The Truth Is Out There". This tittle is meant to in
 ![image](https://github.com/Solrys/UFOs/blob/main/Images/107136875-f72c9800-68bb-11eb-8c9b-71a47742557d.png)
 
 On this next web page you can see there are values you can enter to filter your search by by date, city, state, country, and shape.
-![image 2](
+![image 2]((https://github.com/Solrys/UFOs/blob/main/Images/107136877-f98ef200-68bb-11eb-9311-cf8bd5862b7e.png))
 
 In this first example below you will find a screenshot of the webpage filtered by the date of 1/13/2010. Note that only results with the date of 1/13/2010 are now showing.
 
