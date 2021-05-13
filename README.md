@@ -20,7 +20,7 @@ In this first example below you will find a screenshot of the webpage filtered b
 The user can scroll back to the top and use the 'UFO Sightings' tag on the top left corner to refresh the data set.
 Next is another example of the filtering the data set, but this time by the shape. Here, the example shows the filter 'fireball' has been activated and only results with 'fireball' as the shape are avaialble.
 
-![fireball](
+![fireball](https://github.com/Solrys/UFOs/blob/main/Images/107136880-fe53a600-68bb-11eb-9aaf-1aa5fac865a3.png)
 
 Finally this next example illustrates the web page capabilities of filtering more than one criteria. Below, the data is filtered again to the shape of 'fireball', but from there another filtered of 'ca' for the state has been added. Notice how the data is only showing the intended results of 'fireball' shape and 'ca' for state.
 
