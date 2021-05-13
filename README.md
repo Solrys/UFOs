@@ -9,3 +9,19 @@ The webpage is successful in completed its intended purposes. Scrolling down the
 
 Taking a page from X-Files, "The Truth Is Out There". This tittle is meant to invite curiosity and exploration. 
 ![image](https://github.com/Solrys/UFOs/blob/main/Images/107136875-f72c9800-68bb-11eb-8c9b-71a47742557d.png)
+
+On this next web page you can see there are values you can enter to filter your search by by date, city, state, country, and shape.
+![image 2](
+
+In this first example below you will find a screenshot of the webpage filtered by the date of 1/13/2010. Note that only results with the date of 1/13/2010 are now showing.
+
+![1.13.2010](
+
+The user can scroll back to the top and use the 'UFO Sightings' tag on the top left corner to refresh the data set.
+Next is another example of the filtering the data set, but this time by the shape. Here, the example shows the filter 'fireball' has been activated and only results with 'fireball' as the shape are avaialble.
+
+![fireball](
+
+Finally this next example illustrates the web page capabilities of filtering more than one criteria. Below, the data is filtered again to the shape of 'fireball', but from there another filtered of 'ca' for the state has been added. Notice how the data is only showing the intended results of 'fireball' shape and 'ca' for state.
+
+![fireball and state](
