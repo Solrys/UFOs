@@ -15,7 +15,7 @@ On this next web page you can see there are values you can enter to filter your 
 
 In this first example below you will find a screenshot of the webpage filtered by the date of 1/13/2010. Note that only results with the date of 1/13/2010 are now showing.
 
-![1.13.2010](
+![1.13.2010](https://github.com/Solrys/UFOs/blob/main/Images/107136878-fc89e280-68bb-11eb-998a-8084939f62d0.png)
 
 The user can scroll back to the top and use the 'UFO Sightings' tag on the top left corner to refresh the data set.
 Next is another example of the filtering the data set, but this time by the shape. Here, the example shows the filter 'fireball' has been activated and only results with 'fireball' as the shape are avaialble.
